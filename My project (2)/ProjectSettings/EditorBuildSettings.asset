@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Level_1.unity
+    guid: 31aae9cdb4531654b94bb71bcbed1153
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Level_2.unity
+    guid: 125e92781a45c81429f39a74e3d44855
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Title.unity
+    guid: 0cb03ebca017c104895210643f31d092
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
