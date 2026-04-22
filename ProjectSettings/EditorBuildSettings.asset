@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Title.unity
+    guid: 0cb03ebca017c104895210643f31d092
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Level_1.unity
+    guid: a49e661079024b64b9c40b43ad2869ab
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Level_2.unity
+    guid: 125e92781a45c81429f39a74e3d44855
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Level_3.unity
+    guid: 4ce718f604ee8ff4395a089c7029aa8c
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Level_4.unity
+    guid: 31aae9cdb4531654b94bb71bcbed1153
+  - enabled: 1
+    path: Assets/Pet Dogs Pack/Demo/Scene/Level_5.unity
+    guid: 566b34974caf0854cbd760891c3722b6
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
